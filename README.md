@@ -1,3 +1,21 @@
+# BIOMD0000000407: Schliemann2011_TNF_ProAntiApoptosis
+
+## Installation
+
+Download this repository, and install with distutils
+
+`python setup.py install`
+
+Or, install using pip
+
+`pip install git+https://github.com/biomodels/BIOMD0000000407.git`
+
+To install a specific version (in this example, from the 2014-09-16 BioModels release)
+
+`pip install git+https://github.com/biomodels/BIOMD0000000407.git@20140916`
+
+
+# Model Notes
 
 
 This model is from the article:  
@@ -42,4 +60,5 @@ analysis of the cell population model further revealed an unexpected impact of
 heterogeneity, i.e. the reduction of parametric sensitivity.
 
 **Note:** SBML model generated from Matlab system description on 12-July-2011 21:08:15 by exportSBML Copyright Eric Bullinger 2007-2011 
+
 
